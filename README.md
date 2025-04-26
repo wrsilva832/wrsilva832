@@ -14,7 +14,7 @@
 <p> ▪ Outras Habilidades: Banco de dados (DB2).</p>
 
 <h1>Contato</h1>
-<button type="button" class="btn btn-primary">https://www.linkedin.com/in/wellington-rs/</button> 
+a href="a href="https://www.w3schools.com">Visit W3Schools</a>">Visit W3Schools</a> 
 
 </body>
 
