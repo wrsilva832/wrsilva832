@@ -4,7 +4,7 @@
 <body>
 <p>Desenvolvedor Cobol focado em Mainframe. Especializando em DB2, e frameworks Angular.</p>
 
-<p> 💻 Atualmente estou trabalhando nas forças armadas como desenvoldor web, com experiencia em back end voltado para php e (CMS) joomla 5</p>
+<p> 💻 Atualmente estou trabalhando nas forças armadas como desenvoldor web, com experiencia em back-end php e (CMS) joomla 5</p>
 <p> 📚 No momento estou focando os estudos no na plataforma IBM com enfase em mainframe.</p>
 
 <h1>Habilidades</h1>
