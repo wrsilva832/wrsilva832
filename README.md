@@ -1,4 +1,5 @@
-Olá, meu nome é Wellington Silva.
+<!DOCTYPE html>
+<h1>Olá, meu nome é Wellington Silva.</h1>
 Sobre Mim
 Desenvolvedor Cobol focado em Mainframe. Especializando em DB2, e frameworks Angular.
 
@@ -8,3 +9,7 @@ Desenvolvedor Cobol focado em Mainframe. Especializando em DB2, e frameworks Ang
 Linguagens de Programação: Cobol
 Frameworks: Angular
 Outras Habilidades: Banco de dados (DB2).
+
+
+
+</html>
