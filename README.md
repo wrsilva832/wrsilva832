@@ -7,7 +7,7 @@
 <p> 💻 Atualmente estou trabalhando nas forças armadas como desenvoldor web, com experiencia em back-end php e (CMS) joomla 5</p>
 <p> 📚 No momento estou focando os estudos no na plataforma IBM com enfase em mainframe.</p>
 
-<h1>Habilidades</h1>
+<h1><button type="button" class="btn btn-primary">Habilidades</h1></button>
 
 <p> ▪ Linguagens de Programação: Cobol</p>
 <p> ▪ Ferramentas: Open Cobol</p>
