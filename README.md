@@ -8,9 +8,9 @@
 <p>📚 No momento estou focando os estudos no na plataforma IBM com enfase em mainframe.</p>
 <h1>Habilidades</h1>
 
-<p>Linguagens de Programação: Cobol</p>
-<p>Frameworks: Angular</p>
-<p>Outras Habilidades: Banco de dados (DB2).</p>
+<p>▪Linguagens de Programação: Cobol</p>
+<p>▪Frameworks: Angular</p>
+<p>▪Outras Habilidades: Banco de dados (DB2).</p>
 
 </body>
 
