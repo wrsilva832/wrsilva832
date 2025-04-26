@@ -11,7 +11,7 @@
 
 <p> ▪ Linguagens de Programação: Cobol</p>
 <p> ▪ Frameworks: Angular</p>
-<p> ▪ Outras Habilidades: Banco de dados (DB2).</p>
+<p> ▪ Outras Habilidades: Banco de dados (DB2), Open Cobol.</p>
 
 <h1>Contato</h1>
 
