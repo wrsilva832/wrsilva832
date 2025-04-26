@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <h1>Olá, meu nome é Wellington Silva.</h1>
-Sobre Mim
+<h2>Sobre Mim</h2>h2
 Desenvolvedor Cobol focado em Mainframe. Especializando em DB2, e frameworks Angular.
 
 💻 Atualmente estou trabalhando nas forças armadas como desenvoldor web.
