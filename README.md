@@ -14,7 +14,9 @@
 <p> ▪ Outras Habilidades: Banco de dados (DB2).</p>
 
 <h1>Contato</h1>
-a href="a href="https://www.w3schools.com">Visit W3Schools</a>">Visit W3Schools</a> 
+<a href="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">Visit W3Schools.com!</a>
+
+
 
 </body>
 
