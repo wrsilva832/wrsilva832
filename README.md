@@ -11,7 +11,7 @@
 <p> ▪ Linguagens de Programação: Cobol</p>
 <p> ▪ Frameworks: Angular</p>
 <p> ▪ Outras Habilidades: Banco de dados (DB2).</p>
-<A HREF="myprog.acu">
+
 
 </body>
 
