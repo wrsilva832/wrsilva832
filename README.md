@@ -2,7 +2,7 @@
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
-  <title>Wellington Silva</title>
+  
 </head>
 <body>
   <h1>Olá, meu nome é Wellington Silva.</h1>
